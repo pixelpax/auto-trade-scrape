@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/gabriel/.nvm/versions/node/v7.10.1/bin/node /Users/gabriel/.nvm/versions/node/v7.10.1/bin/yarn nedb-promise
+
+PATH: 
+  /usr/local/opt/python/libexec/bin:/Users/gabriel/.nvm/versions/node/v7.10.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/gabriel/Library/Android/sdk/emulator:/Users/gabriel/Library/Android/sdk/tools/bin:/Users/gabriel/Library/Android/sdk/platform-tools:/Users/gabriel/Dropbox/unifire/scripts:/Users/gabriel/.rvm/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  7.10.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/Users/gabriel/Documents/node-mercedes"
+      at new MessageError (/Users/gabriel/.nvm/versions/node/v7.10.1/lib/node_modules/yarn/lib/cli.js:186:110)
+      at /Users/gabriel/.nvm/versions/node/v7.10.1/lib/node_modules/yarn/lib/cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (/Users/gabriel/.nvm/versions/node/v7.10.1/lib/node_modules/yarn/lib/cli.js:98:30)
+      at /Users/gabriel/.nvm/versions/node/v7.10.1/lib/node_modules/yarn/lib/cli.js:109:13

@@ -1,0 +1,9 @@
+{
+  "name": "node-mercedes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nedb-promise": "^2.0.1"
+  }
+}
